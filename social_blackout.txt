@@ -1,0 +1,6 @@
+twitter.com
+reddit.com
+hackernews.com
+news.ycombinator.com
+facebook.com
+startribune.com
