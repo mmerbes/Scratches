@@ -8,3 +8,7 @@ startribune.com
 ||redditstatic.com^
 ||redditmedia.com^
 ||redd.it^
+||twitter.com^
+||twttr.com^
+||t.co^
+||twimg.com^
