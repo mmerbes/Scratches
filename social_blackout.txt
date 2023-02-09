@@ -8,7 +8,10 @@ facebook.com
 startribune.com
 
 # reddit.com
-
+reddit.com
+redd.it
+redditmedia.com
+redditstatic.com
 0.0.0.0 reddit.com
 0.0.0.0 np.reddit.com
 0.0.0.0 ssl.reddit.com
