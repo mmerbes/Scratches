@@ -4,3 +4,7 @@ hackernews.com
 news.ycombinator.com
 facebook.com
 startribune.com
+||reddit.com^
+||redditstatic.com^
+||redditmedia.com^
+||redd.it^
