@@ -6,14 +6,9 @@ arstechnica.com
 # twitter
 twitter.com
 twttr.com
-t.co$
+x.com
 twimg.com
-(\.|^)twitter\.com$
-(\.|^)twimg\.com$
 
 # reddit
-(\.|^)reddit\.com$
-(\.|^)redditstatic\.com$
-(\.|^)redditmedia\.com$
-(\.|^)redd\.it$
 reddit.com
+www.reddit.com
