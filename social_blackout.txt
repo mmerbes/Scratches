@@ -8,6 +8,7 @@ twitter.com
 twttr.com
 x.com
 twimg.com
+abs.twimg.com
 
 # reddit
 reddit.com
