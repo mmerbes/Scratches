@@ -10,6 +10,10 @@ x.com
 api.x.com
 twimg.com
 abs.twimg.com
+||twitter.com^
+||twttr.com^
+||t.co^
+||twimg.com^
 
 # reddit
 reddit.com
