@@ -1,7 +1,7 @@
 hackernews.com
 news.ycombinator.com
 facebook.com
-startribune.com
+arstechnica.com
 
 # twitter
 twitter.com
