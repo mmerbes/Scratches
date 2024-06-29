@@ -12,3 +12,7 @@ twimg.com
 # reddit
 reddit.com
 www.reddit.com
+||reddit.com^
+||redditstatic.com^
+||redditmedia.com^
+||redd.it^
